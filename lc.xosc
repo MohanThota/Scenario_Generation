@@ -6,6 +6,13 @@
   <RoadNetwork>
     <LogicFile filepath="Carla - Town01.xodr"/>
     <SceneGraphFile filepath=""/>
+    <TrafficSignals>
+      <TrafficSignalController>
+        <Phase name="Green" duration="10.0" />
+        <Phase name="Yellow" duration="3.0" />
+        <Phase name="Red" duration="7.0" />
+      </TrafficSignalController>
+    </TrafficSignals>
   </RoadNetwork>
   <Entities>
     <ScenarioObject name="Car 1">
