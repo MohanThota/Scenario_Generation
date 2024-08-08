@@ -47,7 +47,7 @@
   </RoadNetwork>
   <Entities>
     <ScenarioObject name="Car 1">
-      <Vehicle name="Car 1" vehicleCategory="car">
+      <Vehicle name="vehicle.lincoln.mkz_2017" vehicleCategory="car">
         <ParameterDeclarations/>
         <BoundingBox>
           <Center x="1.3105" y="0.0" z="0.76"/>
@@ -62,7 +62,7 @@
       </Vehicle>
     </ScenarioObject>
     <ScenarioObject name="Car 2">
-      <Vehicle name="Car 2" vehicleCategory="car">
+      <Vehicle name="vehicle.tesla.model3" vehicleCategory="car">
         <ParameterDeclarations/>
         <BoundingBox>
           <Center x="1.3105" y="0.0" z="0.76"/>
@@ -77,7 +77,7 @@
       </Vehicle>
     </ScenarioObject>
   </Entities>
-  <Storyboard>
+  <Storyboard>vehicle.tesla.model3
     <Init>
       <Actions>
         <Private entityRef="Car 1">
