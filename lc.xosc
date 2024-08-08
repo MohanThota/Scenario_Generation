@@ -1,49 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <OpenSCENARIO>
-  <FileHeader author="Beliv" date="2024-07-30T14:38:21" description="Created with AVL Scenario Designer™" revMajor="1" revMinor="0"/>
+  <FileHeader author="Beliv" date="2024-08-08T15:25:55" description="Created with AVL Scenario Designer™" revMajor="1" revMinor="0"/>
   <ParameterDeclarations/>
   <CatalogLocations/>
   <RoadNetwork>
     <LogicFile filepath="Carla - Town01.xodr"/>
     <SceneGraphFile filepath=""/>
-    <TrafficSignals>
-      <TrafficSignalController name="ctrl396" delay="0.0"/>
-      <TrafficSignalController name="ctrl397" delay="0.0"/>
-      <TrafficSignalController name="ctrl398" delay="0.0"/>
-      <TrafficSignalController name="ctrl399" delay="0.0"/>
-      <TrafficSignalController name="ctrl400" delay="0.0"/>
-      <TrafficSignalController name="ctrl401" delay="0.0"/>
-      <TrafficSignalController name="ctrl402" delay="0.0"/>
-      <TrafficSignalController name="ctrl403" delay="0.0"/>
-      <TrafficSignalController name="ctrl404" delay="0.0"/>
-      <TrafficSignalController name="ctrl405" delay="0.0"/>
-      <TrafficSignalController name="ctrl406" delay="0.0"/>
-      <TrafficSignalController name="ctrl407" delay="0.0"/>
-      <TrafficSignalController name="ctrl408" delay="0.0"/>
-      <TrafficSignalController name="ctrl409" delay="0.0"/>
-      <TrafficSignalController name="ctrl410" delay="0.0"/>
-      <TrafficSignalController name="ctrl411" delay="0.0"/>
-      <TrafficSignalController name="ctrl412" delay="0.0"/>
-      <TrafficSignalController name="ctrl413" delay="0.0"/>
-      <TrafficSignalController name="ctrl414" delay="0.0"/>
-      <TrafficSignalController name="ctrl415" delay="0.0"/>
-      <TrafficSignalController name="ctrl416" delay="0.0"/>
-      <TrafficSignalController name="ctrl417" delay="0.0"/>
-      <TrafficSignalController name="ctrl418" delay="0.0"/>
-      <TrafficSignalController name="ctrl419" delay="0.0"/>
-      <TrafficSignalController name="ctrl420" delay="0.0"/>
-      <TrafficSignalController name="ctrl421" delay="0.0"/>
-      <TrafficSignalController name="ctrl422" delay="0.0"/>
-      <TrafficSignalController name="ctrl423" delay="0.0"/>
-      <TrafficSignalController name="ctrl424" delay="0.0"/>
-      <TrafficSignalController name="ctrl425" delay="0.0"/>
-      <TrafficSignalController name="ctrl426" delay="0.0"/>
-      <TrafficSignalController name="ctrl427" delay="0.0"/>
-      <TrafficSignalController name="ctrl428" delay="0.0"/>
-      <TrafficSignalController name="ctrl429" delay="0.0"/>
-      <TrafficSignalController name="ctrl430" delay="0.0"/>
-      <TrafficSignalController name="ctrl431" delay="0.0"/>
-    </TrafficSignals>
   </RoadNetwork>
   <Entities>
     <ScenarioObject name="Car 1">
