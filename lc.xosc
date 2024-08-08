@@ -7,11 +7,42 @@
     <LogicFile filepath="Carla - Town01.xodr"/>
     <SceneGraphFile filepath=""/>
     <TrafficSignals>
-      <TrafficSignalController>
-        <Phase name="Green" duration="10.0" />
-        <Phase name="Yellow" duration="3.0" />
-        <Phase name="Red" duration="7.0" />
-      </TrafficSignalController>
+      <TrafficSignalController name="ctrl396" delay="0.0"/>
+      <TrafficSignalController name="ctrl397" delay="0.0"/>
+      <TrafficSignalController name="ctrl398" delay="0.0"/>
+      <TrafficSignalController name="ctrl399" delay="0.0"/>
+      <TrafficSignalController name="ctrl400" delay="0.0"/>
+      <TrafficSignalController name="ctrl401" delay="0.0"/>
+      <TrafficSignalController name="ctrl402" delay="0.0"/>
+      <TrafficSignalController name="ctrl403" delay="0.0"/>
+      <TrafficSignalController name="ctrl404" delay="0.0"/>
+      <TrafficSignalController name="ctrl405" delay="0.0"/>
+      <TrafficSignalController name="ctrl406" delay="0.0"/>
+      <TrafficSignalController name="ctrl407" delay="0.0"/>
+      <TrafficSignalController name="ctrl408" delay="0.0"/>
+      <TrafficSignalController name="ctrl409" delay="0.0"/>
+      <TrafficSignalController name="ctrl410" delay="0.0"/>
+      <TrafficSignalController name="ctrl411" delay="0.0"/>
+      <TrafficSignalController name="ctrl412" delay="0.0"/>
+      <TrafficSignalController name="ctrl413" delay="0.0"/>
+      <TrafficSignalController name="ctrl414" delay="0.0"/>
+      <TrafficSignalController name="ctrl415" delay="0.0"/>
+      <TrafficSignalController name="ctrl416" delay="0.0"/>
+      <TrafficSignalController name="ctrl417" delay="0.0"/>
+      <TrafficSignalController name="ctrl418" delay="0.0"/>
+      <TrafficSignalController name="ctrl419" delay="0.0"/>
+      <TrafficSignalController name="ctrl420" delay="0.0"/>
+      <TrafficSignalController name="ctrl421" delay="0.0"/>
+      <TrafficSignalController name="ctrl422" delay="0.0"/>
+      <TrafficSignalController name="ctrl423" delay="0.0"/>
+      <TrafficSignalController name="ctrl424" delay="0.0"/>
+      <TrafficSignalController name="ctrl425" delay="0.0"/>
+      <TrafficSignalController name="ctrl426" delay="0.0"/>
+      <TrafficSignalController name="ctrl427" delay="0.0"/>
+      <TrafficSignalController name="ctrl428" delay="0.0"/>
+      <TrafficSignalController name="ctrl429" delay="0.0"/>
+      <TrafficSignalController name="ctrl430" delay="0.0"/>
+      <TrafficSignalController name="ctrl431" delay="0.0"/>
     </TrafficSignals>
   </RoadNetwork>
   <Entities>
