@@ -77,7 +77,7 @@
       </Vehicle>
     </ScenarioObject>
   </Entities>
-  <Storyboard>vehicle.tesla.model3
+  <Storyboard>
     <Init>
       <Actions>
         <Private entityRef="Car 1">
