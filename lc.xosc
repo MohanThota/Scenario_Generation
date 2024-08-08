@@ -50,8 +50,8 @@
       <Vehicle name="vehicle.lincoln.mkz_2017" vehicleCategory="car">
         <ParameterDeclarations/>
         <BoundingBox>
-          <Center x="1.3105" y="0.0" z="0.76"/>
-          <Dimensions width="1.7850000000000001" length="4.313" height="1.52"/>
+          <Center x="1.5" y="0.0" z="0.9"/>
+          <Dimensions width="2.1" length="4.5" height="1.8"/>
         </BoundingBox>
         <Axles>
           <FrontAxle maxSteering="0.6108652381980153" wheelDiameter="0.508" trackWidth="1.543" positionX="2.621" positionZ="0.254"/>
@@ -65,8 +65,8 @@
       <Vehicle name="vehicle.tesla.model3" vehicleCategory="car">
         <ParameterDeclarations/>
         <BoundingBox>
-          <Center x="1.3105" y="0.0" z="0.76"/>
-          <Dimensions width="1.7850000000000001" length="4.313" height="1.52"/>
+          <Center x="1.5" y="0.0" z="0.9"/>
+          <Dimensions width="2.1" length="4.5" height="1.8"/>
         </BoundingBox>
         <Axles>
           <FrontAxle maxSteering="0.6108652381980153" wheelDiameter="0.508" trackWidth="1.543" positionX="2.621" positionZ="0.254"/>
